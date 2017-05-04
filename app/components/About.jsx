@@ -11,7 +11,7 @@ var React = require('react');
 var About = (props) => {
   return(
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <p>Demo project for educational purposes. Resources used:</p>
       <ol>
         <li><a href="https://github.com/jwm0/ReactWeather">Github repo</a></li>
